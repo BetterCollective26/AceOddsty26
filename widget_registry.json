@@ -9,5 +9,16 @@
     "created_at_utc": "2026-05-08 23:47:29 UTC",
     "bundle_path": "bundles/aceodds090526.html.json",
     "has_bundle": true
+  },
+  "acedodds100526test.html": {
+    "brand": "AceOdds",
+    "table_title": "Table 1",
+    "file": "acedodds100526test.html",
+    "pages_url": "https://bettercollective26.github.io/AceOddsty26/acedodds100526test.html",
+    "github_repo_url": "https://github.com/bettercollective26/AceOddsty26",
+    "created_by": "gauthambc",
+    "created_at_utc": "2026-05-10 14:53:51 UTC",
+    "bundle_path": "bundles/acedodds100526test.html.json",
+    "has_bundle": true
   }
 }
